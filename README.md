@@ -4,4 +4,4 @@
 3. Start backend: `npm start`
 4. Install frontend dependencies: `cd frontend cd frontend && npm install`
 5. Start frontend: `npm run dev`
-6. Open http://localhost:5173 in the browser.
+6. run the project
